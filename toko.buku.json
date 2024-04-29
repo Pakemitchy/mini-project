@@ -1,0 +1,22 @@
+{
+    "nama_toko": "Buku Baru",
+    "pengarang": "Fadhlan",
+    "alamat": "Jalan Bojongsoang No. 123",
+    "koleksi_buku": [
+        {
+            "judul": "Cerita Cinta",
+            "penulis": "Bengky",
+            "tahun_terbit": "2020"
+        },
+        {
+            "judul": "Cita cita",
+            "penulis": "Fachri",
+            "tahun_terbit": "2019"
+        },
+        {
+            "judul": "Ngang ngong",
+            "penulis": "Fatih",
+            "tahun_terbit": "2021"
+        }
+    ]
+}
